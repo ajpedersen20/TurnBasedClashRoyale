@@ -1,0 +1,11 @@
+Knight,6,2,1,2,2
+Archer,3,2,3,3,2
+Mortar,5,3,4,1,3
+Skeleton,1,1,1,1,0
+Dragon,6,4,3,2,6
+Goblin,2,2,2,2,1
+Prince,6,5,2,3,4
+Mage,4,5,3,3,4
+Witch,4,3,3,3,3
+Brawler,7,5,2,2,7
+Paladin,5,5,5,5,5
